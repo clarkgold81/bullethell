@@ -1,3 +1,4 @@
 google.com, pub-6639586224558787, DIRECT, f08c47fec0942fa0
 unity.com, 5997288, DIRECT
 unity.com, 18ef12b1-6797-409a-9220-c50ccaeb03b1, DIRECT
+facebook.com, 1405817640943702, RESELLER
